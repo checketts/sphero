@@ -1,2 +1,2 @@
-sphero
+sphero pi-r-squared
 ======
