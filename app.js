@@ -9,4 +9,4 @@ Cylon.robot({
             my.sphero.roll(60, Math.floor(Math.random() * 360));
         });
     }
-}).start();
+}).api({port: '4321'}).start();
